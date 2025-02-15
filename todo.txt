@@ -1,0 +1,10 @@
+
+1. get a simple liniar motion animatino to display
+2. compute a simple function (cos, sin, cos+sin) and dislay them together
+3. get a function for positon of 2 particles and simulate it
+^
+4. get the view to adjust to keep the action in
+5. add a 5th particle
+6. and n particle
+7. code atoms push pull physics
+8. collisitons
